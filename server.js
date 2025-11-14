@@ -11,7 +11,7 @@ const server = app.listen(3000, () => {
 const io = new Server(server);
 
 // Telegram Bot Token
-const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+const token = '8550615849:AAE_jS3RG6LBjdjiRevqlXRNMRMWj2kNIho';
 const bot = new TelegramBot(token, { polling: true });
 
 // In-memory storage for app data
